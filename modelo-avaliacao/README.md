@@ -6,7 +6,7 @@ Um arquivo por sinopse, 1 ou mais identificações de vieses por arquivo.
 Possui arquivo de instruções com explicações sobre os vieses e de preenchimento dos arquivos. 
 
 
-=====================================================================================================================
+============================================================================================
 
 
 This directory contains the files used in the experiment to identify biases in the synopses. 
